@@ -1,0 +1,12 @@
+{
+  "name": "zip-server",
+  "version": "1.0.0",
+  "description": "DISCO example zip service",
+  "main": "app.js",
+  "repository": "https://github.com/open-disco/zip-server.git",
+  "author": "Mike Amundsen <mca@mamund.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
